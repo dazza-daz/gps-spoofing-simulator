@@ -16,6 +16,8 @@ While the spoofer can perfectly calculate the signal delays needed to make a rec
 - **Purple Circle**: The "Fake" location the spoofer wants to trick you into believing you are at.
 - **Red Shaded Area**: The **Position Uncertainty (RMSE)**. The larger this circle, the more inconsistent the satellite signals are, indicating a poor or spoofed fix.
 
+![image.png](image.png)
+
 ## Prerequisites
 
 - Python 3.x
